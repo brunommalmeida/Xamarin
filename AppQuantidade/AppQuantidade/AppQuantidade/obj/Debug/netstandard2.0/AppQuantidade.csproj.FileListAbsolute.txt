@@ -1,0 +1,14 @@
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.deps.json
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.dll
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\ref\AppQuantidade.dll
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.pdb
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csprojAssemblyReference.cache
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.AssemblyInfoInputs.cache
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.AssemblyInfo.cs
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.dll
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\ref\AppQuantidade.dll
+E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.pdb
