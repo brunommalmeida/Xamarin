@@ -12,3 +12,17 @@ E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuan
 E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.dll
 E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\ref\AppQuantidade.dll
 E:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.pdb
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.deps.json
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.dll
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\ref\AppQuantidade.dll
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.pdb
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csprojAssemblyReference.cache
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.AssemblyInfoInputs.cache
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.AssemblyInfo.cs
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.dll
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\ref\AppQuantidade.dll
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.pdb
