@@ -2,9 +2,9 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
-    <SelectedDevice>Xiaomi Redmi Note 8</SelectedDevice>
+    <SelectedDevice>Android Emulator</SelectedDevice>
     <DefaultDevice>pixel_2_pie_9_0_-_api_28</DefaultDevice>
-    <ActiveDebugProfile>Xiaomi Redmi Note 8</ActiveDebugProfile>
+    <ActiveDebugProfile>Android Emulator</ActiveDebugProfile>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
