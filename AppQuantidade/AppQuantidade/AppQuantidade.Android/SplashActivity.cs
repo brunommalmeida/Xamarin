@@ -22,6 +22,7 @@ namespace AppQuantidade.Droid
             Finish();
 
             // Disable activity slide-in animation
+            //zz
             OverridePendingTransition(0, 0);
         }
     }
