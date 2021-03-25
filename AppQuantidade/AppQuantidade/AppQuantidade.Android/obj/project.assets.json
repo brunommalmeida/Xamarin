@@ -1933,27 +1933,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bruno\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Bruno.Almeida\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Meus Documentos\\Documentos\\GitHub\\Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\AppQuantidade.Android.csproj",
+      "projectUniqueName": "E:\\Meus Documentos\\Documentos\\GitHub\\Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\AppQuantidade.Android.csproj",
       "projectName": "AppQuantidade.Android",
-      "projectPath": "D:\\Meus Documentos\\Documentos\\GitHub\\Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\AppQuantidade.Android.csproj",
-      "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "D:\\Meus Documentos\\Documentos\\GitHub\\Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\obj\\",
+      "projectPath": "E:\\Meus Documentos\\Documentos\\GitHub\\Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\AppQuantidade.Android.csproj",
+      "packagesPath": "C:\\Users\\Bruno.Almeida\\.nuget\\packages\\",
+      "outputPath": "E:\\Meus Documentos\\Documentos\\GitHub\\Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Bruno.Almeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1967,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\Meus Documentos\\Documentos\\GitHub\\Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj": {
-              "projectPath": "D:\\Meus Documentos\\Documentos\\GitHub\\Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj"
+            "E:\\Meus Documentos\\Documentos\\GitHub\\Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj": {
+              "projectPath": "E:\\Meus Documentos\\Documentos\\GitHub\\Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj"
             }
           }
         }
