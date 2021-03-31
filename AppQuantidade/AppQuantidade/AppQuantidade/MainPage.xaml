@@ -10,7 +10,7 @@
             <Button Clicked="Aumentar" Text="+" FontSize="48" BorderWidth="1" TextColor="Yellow" BorderColor="#707070" BackgroundColor="Gray" WidthRequest="90" HeightRequest="90"/>
             <Button Clicked="Diminuir" Text="-" FontSize="48" BorderWidth="1" TextColor="Yellow" BorderColor="#707070" BackgroundColor="Gray" WidthRequest="90" HeightRequest="90"/>
         </StackLayout>
-        <Button  Clicked="BtnSair_Clicked" Text="Sair" FontSize="30" BorderWidth="1" TextColor="Red" FontAttributes="Bold" />
+        <!--<Button  Clicked="BtnSair_Clicked" Text="Sair" FontSize="30" BorderWidth="1" TextColor="Red" FontAttributes="Bold" />-->
 
         </StackLayout>
 

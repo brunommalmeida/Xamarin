@@ -20,4 +20,8 @@ D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuan
 D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.dll
 D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\ref\AppQuantidade.dll
 D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.pdb
-D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csprojAssemblyReference.cache
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.deps.json
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.dll
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\ref\AppQuantidade.dll
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.pdb
+D:\Meus Documentos\Documentos\GitHub\Xamarin\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\XamlC.stamp

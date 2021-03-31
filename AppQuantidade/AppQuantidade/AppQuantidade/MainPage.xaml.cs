@@ -34,14 +34,5 @@ namespace AppQuantidade
             lblQuantidade.Text = quantidade.ToString();
         }
 
-        private async Task BtnSair_Clicked(object sender, EventArgs e)
-        {
-            var resultado = await DisplayAlert("Alerta", "Deseja realmente sair?", "Sim", "Não");
-
-            if (resultado)
-            {
-                await Navigation.PopAsync();
-            }
-        }
     }
 }
