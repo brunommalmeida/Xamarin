@@ -123,6 +123,12 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
+*.txt
+*.so
+*.s
+*.o
+*.dll
+*.pdb
 
 # Chutzpah Test files
 _Chutzpah*

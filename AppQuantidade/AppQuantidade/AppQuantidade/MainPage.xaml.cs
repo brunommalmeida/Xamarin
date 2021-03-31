@@ -10,10 +10,33 @@ namespace AppQuantidade
 {
     public partial class MainPage : ContentPage
     {
+        int quantidade = 1;
         public MainPage()
-        {
-            //ZZxx
+        { 
             InitializeComponent();
+
+        }
+
+        private void Aumentar(object sender, EventArgs e)
+        {
+            quantidade++;
+            lblQuantidade.Text = quantidade.ToString();
+        }
+
+        private void Diminuir(object sender, EventArgs e)
+        {
+            if(quantidade == 0)
+            {
+                DisplayAlert("Atenção", "A quantidade não pode ser menor que zero.", "OK");
+                return;
+            }
+            quantidade--;
+            lblQuantidade.Text = quantidade.ToString();
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            
         }
     }
 }
