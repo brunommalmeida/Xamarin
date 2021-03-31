@@ -33,6 +33,5 @@ namespace AppQuantidade
             quantidade--;
             lblQuantidade.Text = quantidade.ToString();
         }
-
     }
 }
