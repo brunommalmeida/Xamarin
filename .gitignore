@@ -127,7 +127,6 @@ artifacts/
 *.so
 *.s
 *.o
-*.dll
 *.pdb
 
 # Chutzpah Test files
